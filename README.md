@@ -33,5 +33,5 @@ Slotted ALOHA is a protocol used for the MAC layer of application. This simulate
 * For each slot, calculate its efficiency
 
 
-![]([https://github.com/Ema](https://github.com/EmaaPop/Slotted-ALOHA-Simulation/blob/main/Week%202%20Outcome%202.png)https://github.com/EmaaPop/Slotted-ALOHA-Simulation/blob/main/Week%202%20Outcome%202.png)
+![](https://github.com/EmaaPop/Slotted-ALOHA-Simulation/blob/main/Week%202%20Outcome%202.png)https://github.com/EmaaPop/Slotted-ALOHA-Simulation/blob/main/Week%202%20Outcome%202.png)
 
