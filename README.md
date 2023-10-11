@@ -33,5 +33,7 @@ Slotted ALOHA is a protocol used for the MAC layer of application. This simulate
 * For each slot, calculate its efficiency
 
 
-![](https://github.com/EmaaPop/Slotted-ALOHA-Simulation/blob/main/Week%202%20Outcome%202.png)https://github.com/EmaaPop/Slotted-ALOHA-Simulation/blob/main/Week%202%20Outcome%202.png)
+### Conclusion:
+With a smaller window size (e.g., W=8), a single node can successfully transmit more frequently because it has shorter waiting times before retransmitting. So, in scenarios with a low number of nodes, you may see higher efficiency. However, as you increase the number of nodes, the chances of collisions (more than one node attempting to transmit in the same slot) increase. When collisions occur, no node successfully transmits in that slot, leading to decreased efficiency. With a fixed window size, the retransmission attempts remain the same, and collisions become more frequent as the number of nodes increases.
+![](https://github.com/EmaaPop/Slotted-ALOHA-Simulation/blob/main/Week%202%20Outcome%202.png)
 
