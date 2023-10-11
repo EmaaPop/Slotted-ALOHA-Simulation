@@ -31,3 +31,7 @@ Slotted ALOHA is a protocol used for the MAC layer of application. This simulate
 * Each Node has a TTL (number of slots after which it will transmit, for example if a node has TTL=7, it will wait 7 slots before transmitting). TTL has to be generated randomly (between a specific range...)
 * Consider each slot and the number of nodes you have for that scenario, see how many nodes are going to transmit during that particular slot. If only one transmits, that is a successful slot (remember that after the transmission, the node may want to transmit again later). If no nodes or more than one nodes transmit, that is a not successful slot (remember what happens after a collision...)
 * For each slot, calculate its efficiency
+
+
+![]([https://github.com/Ema](https://github.com/EmaaPop/Slotted-ALOHA-Simulation/blob/main/Week%202%20Outcome%202.png)https://github.com/EmaaPop/Slotted-ALOHA-Simulation/blob/main/Week%202%20Outcome%202.png)
+
